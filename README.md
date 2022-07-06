@@ -18,7 +18,11 @@ EgoPAT3D: Egocentric Prediction of Action Target in 3D [CVPR 2022]
 
 ## News
 
-EgoPAT3D is accepted at CVPR 2022.
+[2022.07] Our dataset EGOPAT3D 1.0 is available [here](https://ai4ce.github.io/EgoPAT3D/).
+
+[2022.03] Our paper is available on [arxiv](https://arxiv.org/pdf/2203.13116.pdf).
+
+[2022.03] EgoPAT3D is accepted at CVPR 2022.
 
 ## Abstract
 
